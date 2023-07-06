@@ -62,6 +62,11 @@
     font-weight:600;
     text-decoration:none;
     padding-right:1%;
+    transition: all 0.25s ease-in-out;
+  }
+
+  .section-contact p a:hover {
+    color:var(--primary);
   }
 
   .section-contact-brand {
